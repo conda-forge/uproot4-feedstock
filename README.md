@@ -5,11 +5,9 @@ Home: https://github.com/scikit-hep/uproot4
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/uproot4-feedstock/blob/master/LICENSE.txt)
 
 Summary: ROOT I/O in pure Python and NumPy.
-
-
 
 Current build status
 ====================
